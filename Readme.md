@@ -7,7 +7,7 @@ Este es un proyecto de ejemplo de autenticación utilizando JSON Web Tokens (JWT
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu_usuario/auth.git
+    git clone https://github.com/DeadEnd777/authentication-with-JSON-Web-Token-Java-Spring-boot.git
     ```
 
 2. Abre el proyecto en tu IDE preferido.
